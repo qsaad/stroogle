@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="evenodd" font-family="Roboto" font-size="14" text-anchor="middle">
+    <defs>
+        <style>@font-face{font-family:"Roboto";src:url(data:application/font-woff;charset=utf-8;base64,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) format("woff"); font-weight:normal;font-style:normal;}</style>
+        <circle cx="0" cy="0" stroke="none" r="2" id="A"/>
+        <path d="M0 0l4 5h-8z" stroke="none" id="B"/>
+    </defs>
+    <path d="M80.5 770.5v-10m20-300v10" fill="none"/>
+    <path fill="#000" d="M200.5 400.5h600v60h-600z"/>
+    <path fill="none" stroke-width="3" d="M75.5 35.5h10v140h-10z"/>
+    <path d="M80.5 178l-5 10h10zM88 60.5l10 5v-10z" fill="#000" stroke-width="2"/>
+    <g transform="translate(125.5 60.5)">
+        <path fill="none" d="M0 115V0"/>
+        <g fill="#000">
+            <use xlink:href="#A" transform="matrix(1 0 0 1 0 0)"/>
+            <use y="115" xlink:href="#A" transform="matrix(-1 -.00000175 .00000175 -1 -.00020071 230)"/>
+        </g>
+    </g>
+    <g transform="translate(125.5 35.5)">
+        <path fill="none" d="M0 25V0"/>
+        <g fill="#000">
+            <use xlink:href="#A" transform="matrix(1 0 0 1 0 0)"/>
+            <use y="25" xlink:href="#A" transform="matrix(-1 0 0 -1 0 50)"/>
+        </g>
+    </g>
+    <text fill="#000" stroke="none">
+        <tspan x="143" y="127.62">h</tspan>
+        <tspan x="139.25" y="53.87">hp</tspan>
+    </text>
+    <path fill="none" d="M60.5 35.5h5v140h-5z"/>
+    <g transform="translate(95.5 10.5)">
+        <path fill="none" d="M0 0v19.375" stroke-width="2"/>
+        <use fill="#000" stroke-width="1.6" y="20" xlink:href="#B" transform="matrix(-1.25 0 0 -1.25 0 50)"/>
+    </g>
+    <g transform="translate(80.5 20.5)">
+        <path fill="none" d="M0 0h15" stroke-width="2"/>
+        <g fill="#000" stroke-width="1.6">
+            <use x="12" xlink:href="#A" transform="matrix(0 1.25 -1.25 0 15 -15)"/>
+            <use xlink:href="#A" transform="matrix(0 -1.25 1.25 0 0 0)"/>
+        </g>
+    </g>
+    <text fill="#000" stroke="none">
+        <tspan x="129.25" y="16.37">DL + LL</tspan>
+        <tspan x="83" y="13.87">e</tspan>
+        <tspan x="44.25" y="106.37">WL</tspan>
+    </text>
+    <path d="M60.5 160.5h5m0-15h-5m5-15h-5m5-15h-5m5-15h-5m5-15h-5m5-15h-5m5-15h-5" fill="none"/>
+</svg>

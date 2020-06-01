@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="evenodd" font-family="Roboto" font-size="14" text-anchor="middle">
+    <style>
+        <![CDATA[.B{fill:#000}.C{stroke:none}.D{fill:none}]]>
+    </style>
+    <defs>
+        <style>@font-face{font-family:"Roboto";src:url(data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAv8AA4AAAAAEVQAAiMSAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABRAAAAFIAAABgdH4RzmNtYXAAAAGYAAAAiAAAAaIYui0tY3Z0IAAAAiAAAABUAAAAVCuoB51mcGdtAAACdAAAATwAAAG8d/hgq2dhc3AAAAOwAAAADAAAAAwACAATZ2x5ZgAAA7wAAATdAAAHhBRDNCloZWFkAAAInAAAADUAAAA2/wTRtWhoZWEAAAjUAAAAHwAAACQNUwRMaG10eAAACPQAAAA8AAAAPD5BBuJsb2NhAAAJMAAAACAAAAAgDIoOgG1heHAAAAlQAAAAHgAAACACIAHbbmFtZQAACXAAAAF5AAACf+9ABZlwb3N0AAAK7AAAABQAAAAg/20Ac3ByZXAAAAsAAAAA+wAAAUmiZvrJeJxjYGExZJzAwMrAwDqL1ZiBgVEeQjNfZEhjYmBgAGEIaGBgUBeAMBVAhLu/vzuDA4M+QwUbwz8GhjT2WUxACcb5IDkWK9YNQI4CAzMA6VUKyQAAeJxjYGBgZoBgGQZGBhCYA+QxgvksDA1gWgAowsOgz+DG4MngwxDAkMSQzJDCkMqQyZDHUM5Q8f8/UBVI1gO77P+7/3f/3/N/+/+9/5f+X/x/OZCc/3/B/+7/E6E24gSMbPjlsQAeHCYxsLBCvMmLIcfOxs0FpDhAbD6YIBMnyVbTBgAAjFolEQAqAJ0AgACKAHgA1ABkAE4AWgCHAGAAVgA0AjwAvACyAI4AxAAAABT+YAAUApsAIAMhAAsEOgAUBI0AEAWwABQGGAAVAaYAEQbAAA4G2QAGAAAAAHicXZC9TsMwFIVtEqDlR2JEspBsRYW2ssXOlCGphLoE0sGXgR/RSrQTL4CUAaTIA89ysqVbH6cvgcBNoQIWH59z5U/nGkwP0c5sxfk71fzzDa8nVTu4uzXgWsp0moDfG2xp8L4yCLQcIOgMrm1E0kl3OXZyIJ8exgg7jfrBxNG5BMvt1J8jqxCT2FwnRBcG4QoTNhhHHjD7BswagH//YbCthxLBaWavLIpEIE5IKCVTLDKLRSIUkcHOpqPXl+nxuu2uxk7foLUm5BaxACPn1i5SKJwTzm/w4xd/fc3Z/yD+HfgfSGteZM2kiJRYBZGKlG9IiUFbD3Ob+orKV9zT6KYG+xo9Lwe6OuOldLmdxyxkj3WLlSM7Z91g+UwCkYfLsj5im2y15aFGXNaS3diqxxIxZ71gmZD5AsP6iRkAAQACAAgAAv//AA94nH2VXWwUVRTHz73zsTO7azs7u+3CFkp3J7RBhKU72y0WrAmJLxoQg8S2saERo1ZBCkEx0T4IEZeP2qBA+GiLRB6kMTI7EmHjB9toG6wVqmgFIxITfZDUAEoESmfqmbtd2q2Gl7n739y593/O+Z0zQOAoAB8VDJBhCRjwUJ3BR0tSfGltPRMUBVVr602Z8j71fkOOpoAY7rl14fMl1+sNXkmJE3JBJQn7NF+4KOwLcwNWZ4bbatXQ1XSL1SoYXXYBABCYCyCc42vAC02mcE8BHpq9luBNJDR+rYRCygkPCk9OcCg4dVyIKETHHXg4PMgUsoubLQsqZ/t1oslEI3oJ0fmHB9N271771hjstftO/jC6Z4xbdLuPi48O8DWjQ9y9kM3FDMyFAHPukovJGcBLnHB18jw1R9t6OjvxbXaOIOEvDzwLE0Zz57hRuHMCUEAuHnYdE4ohD2KyzSsyaTx+Vr4k0/Vmu0zWm1H8wzwkkw0pmucC046p1/GpC1KPFclk6C89QA9bqwTDeotuYLk/gY9N6IuDmTAR0lQr7DSdbMpkAPc67z05NswN88vwrUdMpXTWnZop+IaSV7Mp6TEkxeAGDUUxAs4zFczzHEtU6wVUi4CvKl5L9FhxUJtPtIg4kwSKae3q3dIx4eXeFy/atzde2P3xNemY1N7cdvDAllcaGt9/mlQQmNX1T/KnD5vf/DqjfdIPQGHn2DBfJgIUwHR4xlRDJQ6yqmMB0B5z6UWX3rvDJEhZirzOYniVlDopIG5KECSAAVS4nNQnylRfRbxci7h8xXoswZf9lvmmRe5Ot5Dtv6bf3nZi+crjb+ymvpv2uV2tIlhf7LCHbEv47Ey3fV/3GXD8t2GynxO+xPp44UFTZN1hiIpBBieVKzSVHKoY7kGkKiUK+UToXDwRKw6IkXKyMp0+Xb1m4cI11cDXkFnzamsbFi9mtZ0DwPVjP3pgxf80ImM19B88UbhQuFjvuZ3JYIrZhQPRWWQRWAsSv44N6HHaUCc3rp63u8jaoZGRH8lau2uIHiM7rD+si2SP/QLVaJDloBFZ+xtZK0La1pgSo83BqHg8B3mjIZcDMyQ59xmh6PFTobMh2pjyTqoZKCllQpr+7F5JSRVPrqQQgQcI41D1FYVLcU1UB0USEV3hqvmELv3ZHn714uvnLlsa/9H2p5L6+qR9oWWfSkulZICE/4octtrty7a19N3e5UvqvuX633unoO0gsJhWYUxXkctCCCGX00pmOPdPy3IpRidQzIXFIFWn9JUpcF7GJVscLv35XE6bHI0/ruqxIFKpVYhahFYFA8hktQ/pFFcNn/p8XbpbXtf36Z/pfVuNx1Z8kNxHy2+R6GYaH4GNSRK/6To52EWu7f8OGCPq2BZOYXPDj0WI5o2OBZVBHLCpQ7Spq1Wcl43XmaMZ3O/G/Y+a7kCRY9itGN7xGrJgc2OH8ebE5+GIs8+T/4nh8voPiXK+MDG+KMBrs8OxRFW8vCJMmjN0+hVSaN+4YR8l9QeOHGm3O2iN1ScY17/6/vfOXds2d3AYx05k/RKy5YPHTY/qvzPH8pLPmApNGQpMFKIodJwSzoHcsebJsxZM6GV+9MemmAt/kEXia6fJE1yaNK9rSJan+Zpkh91qVdGBl1qalo1a2HfwL9sANyYAAAB4nGNgZGBgYFIWWvL4Slk8v81XBkkOBhA48kFQD0RfZQz6wiD0v5n1MhuIy8nABKIAVeoLVgAAAHicY2BkYGDP+cfDwMDGzCDEoMt6mQEoggL4AUO+Aq8AA4wAZARsAKkGAwArBE4AqQW0AKkCLQC3BDAAXAR9AIwB8QCNA/cAKQQ9AF0EgwBfA0wAEgUMAKkEagCMAAAAAAA4AIYAqgD2ARIBZgHGAgACSAKyAxIDKgN2A8J4nGNgZGBg4GeQY2BiAAFGMMnHAOQy7gExAQldAP8AAHicXZLPasJAEMa/+K+UihR66KWHhUIPBTdRKYL2YkWsIB5i8VIoxLhEIWRDEhWfo+/U9+kDFPolLhabZXZ/M9/M7CwEwDW+YOH42bQjW6jRO3IJF3gyXGb82XCF/GK4ihu8Gq6hgXfDDTxiwyqrcknvA5+GLdTxbbjErB/DZdStK8MV8q3hKh6se8M13FkTww28WWqo40OyCdaZaDutlhhrHYRKTCJfikEYCjeXUuGqVCU7tZKuXupMuyrYhl5inGJfqCTd6Ei0ZavT7efNukehaZLXWRb3bHu/30sv9vy1kjoJ7HDjqyhVqT2dDEez+ajZlg6G0IhxQMLnB1gjg0AbDlpcAmOqmvEQit4EEXxI0oCRkKd7qkoLT/FU7LXjvmKmy+olLaPlaoAt6zxmnCt/vCjqU/bVvC2fRXKSDrronybrnlU0/3XOp8n4ph5/DBv7YkkqMc2nquhp5gVUQ97jMxIVc6eMTPnKIUaYYc69Wdzv/AL6nm6FAAAAeJxjYGYAg/9ZDCkMmIAfACouAeB4nNvAo72BQZthE6MAkzbjJkFGILld0MpAVVqAgUObYTujh7WeogiQuZ0pwsNCA8xiDnI2URUDsVjifG20JUEsVjMdJUl+EIutMNbNSBrEYp9YHmOlDGJx1KUHWEqBWJwhrmZqYFO4yhK8zWRBLO7mFD+IOp6bm7qSbUAsXhEBHk42EIvPxkhdRhDE4ncw0ZQF6xUIcIS4imGTEDc70AMKrrWZEi6b7KUYizfFg4h6EKEvxViyyR9E5IOIfhCxHkT8BxHyUoylIB2lIB2lIB2lm/jlQHpBxHsQIS8HVBcPIvpBxHkQ8R9E2MsBFeeDCH0FoLp8IAEAUxxVkgA=) format("woff"); font-weight:normal;font-style:normal;}</style>
+        <circle cx="0" cy="0" r="2" id="A" class="C"/>
+        <path d="M0 0l4 5h-8z" id="B" class="C"/>
+    </defs>
+    <path d="M80.5 770.5v-10m20-300v10" class="D"/>
+    <path d="M200.5 400.5h600v60h-600z" class="B"/>
+    <g stroke-width="2" class="D">
+        <path d="M150.5 150.5v-100h-100v100"/>
+        <path d="M40.5 150.5h20m80 0h20"/>
+    </g>
+    <g transform="translate(50.5 185.5)">
+        <path d="M0 0h100" class="D"/>
+        <g class="B">
+            <use xlink:href="#A" transform="matrix(0 -1 1 0 0 0)"/>
+            <use xlink:href="#A" transform="matrix(0 1 -1 0 100 -100)" x="100"/>
+        </g>
+    </g>
+    <g transform="translate(175.5 50.5)">
+        <path d="M0 100V0" class="D"/>
+        <g class="B">
+            <use xlink:href="#A" transform="matrix(-1 -.00000175 .00000175 -1 -.00017453 200)" y="100"/>
+            <use xlink:href="#A" transform="matrix(1 0 0 1 0 0)"/>
+        </g>
+    </g>
+    <g transform="translate(25.5 50.5)">
+        <path d="M0 0h14.375" stroke-width="2" class="D"/>
+        <use xlink:href="#B" stroke-width="1.6" transform="matrix(0 1.25 -1.25 0 20 -20)" x="16" class="B"/>
+    </g>
+    <g class="D">
+        <path d="M50.5 40.5h100v5h-100z"/>
+        <path d="M65.5 45.5v-5m20 5v-5m15 5v-5m15 5v-5m20 5v-5"/>
+    </g>
+    <text class="B C">
+        <tspan x="19.25" y="41.37">F</tspan>
+        <tspan x="100.5" y="31.37">w</tspan>
+        <tspan x="99.25" y="178.87">L</tspan>
+        <tspan x="188" y="101.37">H</tspan>
+        <tspan x="61.75" y="102.62">Ic</tspan>
+        <tspan x="101.75" y="65.12">Ib</tspan>
+        <tspan x="140.5" y="102.62">Ic</tspan>
+    </text>
+    <text font-size="10" class="B C">
+        <tspan x="54.25" y="162.55">Fixed/Pinned</tspan>
+        <tspan x="153" y="162.55">Fixed/Pinned</tspan>
+    </text>
+</svg>

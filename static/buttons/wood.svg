@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+    <symbol id="moisture" viewBox="0 0 24 24">
+        <title>Moisture Content Factor</title>
+        <rect x="0" y="0" width="24" height="24" stroke="black" fill="white" stroke-width="2" />
+        <path d="M 12,6 l-4,8 a4 4,0,0,0 8,0 Z" stroke="black" fill="white" stroke-width="2"/>
+        
+    </symbol>
+
+    <symbol id="temperature" viewBox="0 0 24 24">
+        <title>Temperature Factor</title>
+        <rect x="0" y="0" width="24" height="24" stroke="black" fill="white" stroke-width="2" />
+        <circle cx="12" cy="12" r="5" fill="black" />
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" />
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(30 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(60 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(90 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(120 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(150 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(180 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(210 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(240 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(270 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(300 12 12)"/>
+        <line x1="12" y1="5" x2="12" y2="2" stroke="black" transform="rotate(330 12 12)"/>
+    </symbol>
+
+    <symbol id="duration" viewBox="0 0 24 24">
+        <title>Duration Factor</title>
+        <rect x="0" y="0" width="24" height="24" stroke="black" fill="white" stroke-width="2" />
+        <circle cx="12" cy="12" r="7" stroke="black" fill="white" stroke-width="2" />
+        <line x1="12" y1="12" x2="12" y2="7" stroke="black" transform="rotate(30 12 12)"/>
+        <line x1="12" y1="12" x2="12" y2="9" stroke="black" transform="rotate(90 12 12)"/>
+    </symbol>
+
+    <symbol id="method" viewBox="0 0 24 24">
+        <title>Method</title>
+        <rect x="0" y="0" width="24" height="24" stroke="black" fill="white" stroke-width="2" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">M</text>
+    </symbol>
+
+    <symbol id="asd" viewBox="0 0 24 24">
+        <title>ASD</title>
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">A</text>
+    </symbol>
+
+    <symbol id="lrfd" viewBox="0 0 24 24">
+        <title>LRFD</title>
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">L</text>
+    </symbol>
+</svg>

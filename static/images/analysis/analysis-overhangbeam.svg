@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="evenodd" font-family="Roboto" font-size="14" text-anchor="middle">
+    <style>
+        <![CDATA[.B{fill:#000}.C{stroke:none}.D{fill:none}.E{stroke-width:2}.F{stroke-width:1.6}]]>
+    </style>
+    <defs>
+        <style>@font-face{font-family:"Roboto";src:url(data:application/font-woff;charset=utf-8;base64,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) format("woff"); font-weight:normal;font-style:normal;}</style>
+        <circle cx="0" cy="0" r="2" id="A" class="C"/>
+        <path d="M0 0l4 5h-8z" id="B" class="C"/>
+    </defs>
+    <path d="M80.5 770.5v-10m20-300v10" class="D"/>
+    <path d="M200.5 400.5h600v60h-600z" class="B"/>
+    <text class="B C">
+        <tspan x="185.5" y="15.12">P</tspan>
+        <tspan x="150.5" y="30.12">wc</tspan>
+    </text>
+    <path d="M25.5 80.5h150" stroke-width="3" class="D"/>
+    <path d="M25.5 80.5l-5 10h10zm100 0l-5 10h10z" class="B E"/>
+    <g transform="translate(25.5 100.5)">
+        <path d="M0 0h100" class="D"/>
+        <g class="B">
+            <use xlink:href="#A" transform="matrix(0 -1 1 0 0 0)"/>
+            <use xlink:href="#A" transform="matrix(0 1 -1 0 100 -100)" x="100"/>
+        </g>
+    </g>
+    <g transform="translate(125.5 100.5)">
+        <path d="M0 0h50" class="D"/>
+        <g class="B">
+            <use xlink:href="#A" transform="matrix(0 -1 1 0 0 0)"/>
+            <use xlink:href="#A" transform="matrix(0 1 -1 0 50 -50)" x="50"/>
+        </g>
+    </g>
+    <path d="M25.5 65.5h150v5h-150zm0-20h100v5h-100zm100-10h50v5h-50z" class="D"/>
+    <g transform="translate(175.5 10.5)">
+        <path d="M0 0v14.375" class="D E"/>
+        <use xlink:href="#B" transform="matrix(-1.25 0 0 -1.25 0 40)" y="16" class="B F"/>
+    </g>
+    <text class="B C">
+        <tspan x="75.5" y="36.37">ws</tspan>
+        <tspan x="105.5" y="62.62">w</tspan>
+        <tspan x="79.25" y="94.87">L</tspan>
+        <tspan x="154.25" y="95.12">a</tspan>
+    </text>
+    <g class="D E">
+        <path d="M25.5 160.5h150"/>
+        <path d="M125.5 145.5q-43.5 59-100 15m100-15q25 15 50 15"/>
+    </g>
+    <g transform="translate(25.5 110.5)">
+        <path d="M0 15V5.625" class="D E"/>
+        <use xlink:href="#B" transform="matrix(1.25 0 0 1.25 0 0)" class="B F"/>
+    </g>
+    <g transform="translate(125.5 110.5)">
+        <path d="M0 15V5.625" class="D E"/>
+        <use xlink:href="#B" transform="matrix(1.25 0 0 1.25 0 0)" class="B F"/>
+    </g>
+    <text class="B C">
+        <tspan x="40.5" y="127.62">R</tspan>
+        <tspan x="137.75" y="126.87">R</tspan>
+        <tspan x="90.5" y="191.37">M</tspan>
+        <tspan x="100.25" y="197.12">s</tspan>
+        <tspan x="111.5" y="138.87">M</tspan>
+        <tspan x="120.5" y="144.87">c</tspan>
+    </text>
+    <g class="D">
+        <path d="M125.5 145.5v15m-35 1v13m-20-14v18m-20-18v15m90-22.5v7.5" class="E"/>
+        <path d="M50.5 65.5v5m20-5v5m20-5v5m20-5v5m20-5v5m20-5v5m-100-25v5m20-5v5m20-5v5m20-5v5m30-15v5m20-5v5"/>
+    </g>
+    <text class="B C">
+        <tspan x="49.5" y="133.12">L</tspan>
+        <tspan x="147" y="132.12">R</tspan>
+    </text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="evenodd" font-family="Roboto" font-size="14" text-anchor="middle">
+    <defs>
+        <style>@font-face{font-family:"Roboto";src:url(data:application/font-woff;charset=utf-8;base64,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) format("woff"); font-weight:normal;font-style:normal;}</style>
+        <path d="M-5 0l5 7.5L5 0" fill="none" id="A"/>
+    </defs>
+    <path d="M80.5 770.5v-10m20-300v10" fill="none"/>
+    <g fill="#000">
+        <path d="M200.5 400.5h600v60h-600zM65.5 108h85v10h-85z"/>
+        <path d="M140.5 43h10v65h-10z"/>
+    </g>
+    <g fill="none">
+        <path d="M148.2692 43H150.5 5.5m0 75h60V78h-60"/>
+        <path d="M65.5 105.5h-60" stroke-dasharray="5 6"/>
+    </g>
+    <path d="M68 125.5h22.5V118h-50v7.5H63v65H40.5v7.5h50v-7.5H68z"/>
+    <path d="M5.5 55.5h120" fill="none" stroke-width="5"/>
+    <g transform="translate(75.5 35.5)">
+        <path d="M0 0v32.5" fill="none"/>
+        <g fill="#000">
+            <use xlink:href="#A" transform="matrix(1 0 0 1 0 0)"/>
+            <use xlink:href="#A" transform="matrix(-1 0 0 -1 0 65)" y="32.5"/>
+        </g>
+    </g>
+    <text fill="#000" stroke="none">
+        <tspan x="44.25" y="32.62">cov</tspan>
+        <tspan x="114.25" y="72.2629">rebar</tspan>
+    </text>
+</svg>

@@ -1,0 +1,45 @@
+{
+  "name": "stroogle",
+  "version": "1.0.0",
+  "description": "Structural Webapp",
+  "author": "Alpesh Chavda <alpeshk_98@yahoo.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "apexcharts": "^2.5.0",
+    "chartist": "^0.11.3",
+    "firebase": "^5.11.1",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jquery": "^3.4.1",
+    "jspdf": "^1.5.3",
+    "konva": "^2.6.0",
+    "lodash": "^4.17.15",
+    "mixin": "^0.2.0",
+    "nuxt": "^2.2.0",
+    "nuxtend": "^0.2.6",
+    "puppeteer": "^1.13.0",
+    "svg.js": "^2.7.1",
+    "v-chartist": "^0.1.6",
+    "vue-apexcharts": "^1.2.7",
+    "vue-konva": "^2.0.0",
+    "vuetify": "^1.5.7"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.7.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-html": "^4.0.6",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
