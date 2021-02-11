@@ -11,7 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "apexcharts": "^2.5.0",
+    "apexcharts": "^3.24.0",
     "chartist": "^0.11.3",
     "firebase": "^5.11.1",
     "html2canvas": "^1.0.0-alpha.12",
